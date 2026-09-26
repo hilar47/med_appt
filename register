@@ -1,0 +1,11 @@
+$ curl -X POST http://localhost:5000/api/auth/register \
+  -H "Content-Type: application/json" \
+  -d '{
+    "role": "patient",
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "phone": "+971500000000",
+    "password": "SecurePass123"
+  }'
+
+{"message":"User registered successfully","user":{"id":1,"role":"patient","name":"Jane Doe","email":"jane.doe@example.com","phone":"+971500000000"}}
