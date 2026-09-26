@@ -1,9 +1,11 @@
-# StayHealthy
+# Medical Appointment Booking (StayHealthy)
 
-StayHealthy is a non-profit healthcare platform that connects patients in remote and underserved areas with
-doctors anytime, from anywhere. This repository contains the front-end web application built as part of
-StayHealthy's **Go Digital** initiative — a modern, responsive, accessible interface for finding doctors,
-booking appointments, and managing patient accounts, built to sit in front of a back-end API.
+StayHealthy is a non-profit healthcare platform — a **Medical Appointment Booking**
+system that connects patients in remote and underserved areas with doctors anytime,
+from anywhere. This repository contains the front-end web application built as part
+of StayHealthy's **Go Digital** initiative — a modern, responsive, accessible
+interface for finding doctors, booking appointments, and managing patient accounts,
+built to sit in front of a back-end API.
 
 ## Features
 
